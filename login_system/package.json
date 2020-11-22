@@ -1,0 +1,19 @@
+{
+  "name": "login_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "nodemon": "^2.0.6",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
